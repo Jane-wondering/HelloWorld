@@ -6,7 +6,7 @@ library(ggplot2)
 library(stringr)
 library(moderndive)
 
-
+Raw_data <- read_xls("data_analysis_exercise.xls")
 
 View(Raw_data)    
 
